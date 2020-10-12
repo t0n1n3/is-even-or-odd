@@ -1,6 +1,6 @@
 # is-even-or-odd
 
-A simple library to check weather the number is even or odd. This is currently a work in progress and **need contributors**. Currently it checks only the first 100,000 natural numbers.
+A simple library to check weather the number is even or odd. THis is currently a work in progress and **need contributors**. Currently it checks only the first 66 natural numbers.
 
 # Scripts
 
